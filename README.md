@@ -22,7 +22,8 @@
 - მონაცემთა წერტილები
 - რეგრესიის ხაზი
 - კორელაციის კოეფიციენტი `r`
-![Uploading Screenshot 2025-04-23 at 21.02.05.png…]()
+
+<img width="712" alt="Screenshot 2025-04-23 at 21 04 08" src="https://github.com/user-attachments/assets/b5b7f6a8-17aa-42c5-bd44-a2013a15a84d" />
 
 ---
 
